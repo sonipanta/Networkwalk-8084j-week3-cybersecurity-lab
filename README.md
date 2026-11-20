@@ -22,7 +22,7 @@ This repository contains hands-on cybersecurity practical exercises focused on p
 
   **📸 Practical Screenshot of Password Cracking using JTR**
   <h2>File1</h2>
-  <h3> Hash Extraction</h3>
+  <h3> Hash Calculator</h3>
   <img src="M1lab1a.png" width="600">
   <h3> Johnny Interface</h3>
    <img src="M1lab1b.png" width="600">
@@ -30,7 +30,7 @@ This repository contains hands-on cybersecurity practical exercises focused on p
    <img src="M1lab1c.png" width="600">
 
    <h3>File22</h3>
-  <h3> Hash Extraction</h3>
+  <h3> Hash Calculator</h3>
   <img src="M1lab2a.png" width="600">
   <h3> Johnny Interface</h3>
    <img src="M1lab2b.png" width="600">
@@ -38,7 +38,7 @@ This repository contains hands-on cybersecurity practical exercises focused on p
    <img src="M1lab2c.png" width="600">
    
    <h2>File3</h2>
-  <h3> Hash Extraction</h3>
+  <h3> Hash Calculator</h3>
   <img src="M1lab3a.png" width="600">
   <h3> Johnny Interface</h3>
    <img src="M1lab3b.png" width="600">
@@ -64,25 +64,25 @@ This repository contains hands-on cybersecurity practical exercises focused on p
   
   **📸 Practical Screenshot of Password Cracking using NetworkWalks Tools**
   <h2>File1</h2>
-  <h3> Hash Extraction</h3>
+  <h3> Hash Calculator</h3>
   <img src="M2lab1a.png" width="600">
-  <h3> Johnny Interface</h3>
+  <h3> Password Cracker</h3>
    <img src="M2lab1b.png" width="600">
    <h3> Password Recovery</h3>
    <img src="M2lab1c.png" width="600">
 
    <h3>File22</h3>
-  <h3> Hash Extraction</h3>
+  <h3> Hash Calculator</h3>
   <img src="M2lab2a.png" width="600">
-  <h3> Johnny Interface</h3>
+  <h3> Password Cracker</h3>
    <img src="M2lab2b.png" width="600">
    <h3> Password Recovery</h3>
    <img src="M2lab2c.png" width="600">
    
    <h2>File3</h2>
-  <h3> Hash Extraction</h3>
+  <h3> Hash Calculator</h3>
   <img src="M2lab3a.png" width="600">
-  <h3> Johnny Interface</h3>
+  <h3> Password Cracker</h3>
    <img src="M2lab3b.png" width="600">
    <h3> Password Recovery</h3>
    <img src="M2lab3c.png" width="600">
